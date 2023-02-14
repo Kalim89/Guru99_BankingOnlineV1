@@ -6,11 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="MvnProject" />
+        <module name="Guru99_BankingOnline" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Guru99_BankingOnline" target="19" />
-    </bytecodeTargetLevel>
   </component>
 </project>

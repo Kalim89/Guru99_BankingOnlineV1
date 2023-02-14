@@ -1,0 +1,11 @@
+<suite name="BankingTest" verbose="1" >
+    <listeners>
+        <listener class-name="Guru99_BankingOnline_Utilities.Listener"></listener>
+    </listeners>
+    <test name="LoginTest" >
+        <classes>
+            <class name="Guru99_BankingOnline_TestCases.LoginTest" />
+        </classes>
+    </test>
+
+</suite>
