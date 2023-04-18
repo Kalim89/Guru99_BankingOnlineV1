@@ -15,7 +15,7 @@ import java.io.IOException;
 import static org.testng.Assert.assertEquals;
 
 public class LoginTest extends BaseTest {
-    private String baseurl = BaseTest.BASE_URL + "/V4";
+    private String baseurl = BASE_URL + "/V4";
     private LoginPage loginPageObj;
 
     private String actualTitle;
